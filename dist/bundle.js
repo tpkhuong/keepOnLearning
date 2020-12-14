@@ -1,0 +1,1 @@
+(()=>{"use strict";var o="Tesla",a="Washingtion";console.log(void console.log("this char says hi ".concat("Deadpool",". their favorite things are: car ").concat(o,". Lives in ").concat(a))),console.log(void console.log("This char has to say goodbye: ".concat("SpiderMan")))})();
