@@ -1,7 +1,7 @@
 import { ourChars, ourFavorites } from "./chars"
 
 function sayHi() {
-    console.log("Hello");
+    console.log("Helloooo00");
     console.log(`this char says hi ${ourChars.firstChar.firstName}. their favorite things are: car ${ourFavorites.firstFavoriteThings.car}. Lives in ${ourFavorites.firstFavoriteThings.state}`)
 }
 
